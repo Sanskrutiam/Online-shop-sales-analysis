@@ -25,7 +25,8 @@ Open the Online Shop Sales Analysis.pbix file in Power BI Desktop.
 - Cross platform
 
 
-## Usage
+## Usage![Screenshot 2024-10-17 123520](https://github.com/user-attachments/assets/e95ae05e-4892-4e28-8599-ea5663fcbd18)
+
 
 Launch Power BI Desktop.
 
@@ -37,6 +38,12 @@ Explore different visualizations on the dashboard, such as:
 Sales trends over month
 Top-selling products
 Regional sales distribution
+
+##Overview
+
+
+
+
 
 ## Objective
 Identifying sales trends over time.
