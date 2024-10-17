@@ -38,7 +38,7 @@ Sales trends over month
 Top-selling products
 Regional sales distribution
 
-##Overview
+## Result
 ## Usage![Screenshot 2024-10-17 123520](https://github.com/user-attachments/assets/e95ae05e-4892-4e28-8599-ea5663fcbd18)
 
 
