@@ -25,6 +25,7 @@ Open the Online Shop Sales Analysis.pbix file in Power BI Desktop.
 - Cross platform
 
 
+## usage
 
 
 Launch Power BI Desktop.
